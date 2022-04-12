@@ -10,7 +10,7 @@ const StyledApp = styled.div`
 export function App() {
   return (
     <StyledApp>
-      {/* <NxWelcome title="spa" /> */}
+      <NxWelcome title="spa" />
 
       {/* START: routes */}
       {/* These routes and navigation have been generated for you */}
