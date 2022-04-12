@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///mnt/3ae6f5ac-66c1-4a3f-af7c-c1125b096c6a/code/my-org/.github/workflows/build.yml"
+    }
+}
